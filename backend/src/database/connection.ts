@@ -6,8 +6,8 @@ const connection = knex({
 	connection: {
 		host: '127.0.0.1',
 		database: 'kaora',
-		user: 'gabrielmodesto',
-		password: '1p3p4S5$'
+		user: '',
+		password: ''
 	}
 });
 
